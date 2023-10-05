@@ -1,0 +1,36 @@
+.org {
+  margin-left: 3%;
+  margin-right: 40%;
+  border: 1px solid black;
+}
+
+spanblue {
+  color: blue;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+* {
+  font-size: 18px;
+}
+
+div {
+   text-align: left; 
+}
+
+span{
+  color: red;
+}
+
+.slt{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#msg{
+  color: black;
+}
+
+wei{
+  font-weight: bold;
+}
